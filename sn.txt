@@ -1,0 +1,10 @@
+The name or owner when registrating the license should be: Jaguar Land Rover Limited
+Key: ACCP-4AR8-4X6R-8R41
+Serialnr: 228110469
+Or
+Key: ACCG-ST66-VB61-RLUR
+Serialnr: 228108687 
+
+
+user: devel
+password: yabby
